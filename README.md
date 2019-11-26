@@ -1,6 +1,9 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to Martha Kim's resume website. The resume attached is for a passionate UCR student with a love for bring awareness to mental health.  
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+
 
 Special thanks to the open source bootstrap libraries that made this website possible. 
+<!-- # Welcome to Martha Kim's resume website. The resume attached is for a passionate UCR student with a love for bring awareness to mental health.   -->
+  <![A glimpse of the resume of a driven undergraduate UCR student](img/Resume.jpg)
+  
